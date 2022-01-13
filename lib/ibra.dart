@@ -4,7 +4,6 @@ import 'package:flutter/cupertino.dart';
 
 class HomePage extends StatefulWidget {
   final Contacts contacts;
-
   const HomePage({Key? key, required this.contacts}) : super(key: key);
 
   @override
